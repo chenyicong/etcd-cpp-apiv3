@@ -1,3 +1,4 @@
+cyc-test
 etcd-cpp-api is a C++ API for [etcd]
 
 ## Requirements
